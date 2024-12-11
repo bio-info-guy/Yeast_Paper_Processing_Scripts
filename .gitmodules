@@ -1,0 +1,3 @@
+[submodule "smartseq2_bash_qc_scripts"]
+	path = smartseq2_bash_qc_scripts
+	url = https://github.com/bio-info-guy/smartseq2_bash_qc_scripts
